@@ -40,6 +40,8 @@ Certains offices de tourisme se servent des drones afin de réaliser des cartes 
 
 Dans le milieu agricole, le drone peut servir : de caméra pour surveiller les champs, repérer des hétérogénéités du sol, examiner la densité végétale, créer des zones sur les parcelles ... 
 
+![drone](https://www.backpackerguide.nz/wp-content/uploads/2018/06/pexels-photo-336232.jpeg "Un drône qui vole")
+
 *Historique*
 
 Pendant et après la première guerre mondiale, des avions sans pilote firent leurs apparition. Ils étaient radiocommandés "avec des tentatives de torpilles aériennes" .Le drône était à cet époque qu'un projet car il ne fut jamais opérationnel. Alors chaque pays (France, Royaume-Uni et Etats-Unis) travailla sur ce projet  d'aéronef sans pilote. \\
