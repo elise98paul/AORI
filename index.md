@@ -71,3 +71,5 @@ En conclusion, les drones sont capables de : filmer, cartographier, photographie
 Le drône va être de plus en plus utiliser. Un jour, le drone pourra même livrer de la nourriture chez des particuliers. 
 
 Les drones de loisirs doivent être assurer en cas d'accident car ils peuvent mettre en danger l'environnement s'il perdent de l'altitude.
+
+Bibliographie
