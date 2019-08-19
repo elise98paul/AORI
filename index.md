@@ -10,22 +10,22 @@ Dans le cadre du travail de fin d'année en architecture des ordinateurs, j'ai p
 Un drone est un appareil piloté à distance ne pouvant dépasser les 150 mètres d'altitude afin de ne pas passer dans l'espace aérien. Sa vitesse peut varier entre 20 et 80 km/h.
 
 Il existe plusieurs types de drones: 
-drone civil
-drone professionnel
-drone militaire
-drone de cinéma
-drone de course
+* drone civil
+* drone professionnel
+* drone militaire
+* drone de cinéma
+* drone de course
 
 
-Le drone est capable de transporter des charges de quelques kilos. Mais a une limite de temps lorsqu'il vole. 
+Le **drone** est capable de transporter des charges de quelques kilos. Mais a une limite de temps lorsqu'il vole. 
 
 Piloter un drone est à la portée de tous, à condition de bien s'entraîner et de respecter la législation à propos des appareils volants.
 
 Le drone est composé des éléments suivants:
 
-Un châssis :élément le plus important du drone. Le châssis peut être composé de 3 à 8 bras.  Ces bras sont, selon le choix du pilote, simples ou doubles,
-un système de propulsion : il permet au drone de s’envoler. Le système de propulsion est composé d'un moteurs, d’hélices, de batteries. Ces différents éléments influencent le temps de vol et la charge qu'il peut supporter,
-un contrôleur de vol: il permet de faire la connexion entre le pilote et le drone. 
+* Un châssis :élément le plus important du drone. Le châssis peut être composé de 3 à 8 bras.  Ces bras sont, selon le choix du pilote, simples ou doubles,
+* un système de propulsion : il permet au drone de s’envoler. Le système de propulsion est composé d'un moteurs, d’hélices, de batteries. Ces différents éléments influencent le temps de vol et la charge qu'il peut supporter,
+* un contrôleur de vol: il permet de faire la connexion entre le pilote et le drone. 
 
 
 Il est possible d'acheter toutes ses pièces séparément et d'assembler le drone tout seul.  Toutefois, pour pouvoir utiliser un drone, il est nécessaire de connaître les lois concernant l'aviation civile. En effet, ces lois sont nécessaires pour respecter la vie privée d'autrui.
@@ -44,13 +44,13 @@ Dans le milieu agricole, le drone peut servir : de caméra pour surveiller les c
 
 *Historique*
 
-Pendant et après la première guerre mondiale, des avions sans pilote firent leurs apparition. Ils étaient radiocommandés "avec des tentatives de torpilles aériennes" .Le drône était à cet époque qu'un projet car il ne fut jamais opérationnel. Alors chaque pays (France, Royaume-Uni et Etats-Unis) travailla sur ce projet  d'aéronef sans pilote. \\
+Pendant et après la première guerre mondiale, des avions sans pilote firent leurs apparition. Ils étaient radiocommandés "avec des tentatives de torpilles aériennes" .Le drône était à cet époque qu'un projet car il ne fut jamais opérationnel. Alors chaque pays (France, Royaume-Uni et Etats-Unis) travailla sur ce projet  d'aéronef sans pilote. 
 
 Le Royaume-Uni commença le, fut conçu l’Aerial Target, un projet d'avion-cible, par l'ingénieur Archibald Low. En 1917, aux États-Unis, le projet Hewitt-Sperry automatic airplane des ingénieurs Elmer Ambrose Sperry, Lawrence Sperry et Peter Cooper Hewitt se développe.
 
-La France lança le projet " avions sans pilote" destinés à s'écraser sur des cibles ennemies.Mais ce n'était que des tests. Mark Boucher commença alors ses recherches pour confectionner un avion sans pilote. Il réussit à monter un avion avec pilotage automatique. Il réussit à le faire voler sur 1 km.  \\
+La France lança le projet " avions sans pilote" destinés à s'écraser sur des cibles ennemies.Mais ce n'était que des tests. Mark Boucher commença alors ses recherches pour confectionner un avion sans pilote. Il réussit à monter un avion avec pilotage automatique. Il réussit à le faire voler sur 1 km.  
 
-Au même moment, pendant la guerre froide, les américains développèrent les drone, dans le plus grand secret, afin d'avoir un avantage stratégique sur l'ennemi. Ainsi ils pouvaient savoir exactement où se trouvaient les troupes adverses. \\
+Au même moment, pendant la guerre froide, les américains développèrent les drone, dans le plus grand secret, afin d'avoir un avantage stratégique sur l'ennemi. Ainsi ils pouvaient savoir exactement où se trouvaient les troupes adverses. 
 
 Les drones militaires furent utiliser pour la première fois lors de la guerre du Viet Nam.
 
@@ -68,9 +68,16 @@ Tous les drones sont obligés d'avoir un matricule. C'est obligatoire. Ainsi ils
 
 **Conclusion**
 
-En conclusion, les drones sont capables de : filmer, cartographier, photographier, faire de frappes aériennes, espionner des pays ennemis, neutraliser des cibles ... 
+En conclusion, les drones sont capables de : 
 
-Le drône va être de plus en plus utiliser. Un jour, le drone pourra même livrer de la nourriture chez des particuliers. 
+* filmer, 
+* cartographier, 
+* photographier, 
+* faire de frappes aériennes, 7
+* espionner des pays ennemis, 
+* neutraliser des cibles ... 
+
+Le drône va être de plus en plus utiliser. Un jour, le drone pourra même livrer de la nourriture chez les particuliers. 
 
 Les drones de loisirs doivent être assurer en cas d'accident car ils peuvent mettre en danger l'environnement s'il perdent de l'altitude.
 
