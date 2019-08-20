@@ -1,7 +1,5 @@
 **Dossier documentaire: les drones**
 
-[Qu'est-ce qu'un drone?](historique.md)
-
 
 **Introduction**
 
