@@ -17,28 +17,28 @@ Il existe plusieurs types de drones:
 * drone de course
 
 
-Le **drone** est capable de transporter des charges de quelques kilos. Mais a une limite de temps lorsqu'il vole. 
+Le **drone** est capable de transporter des charges de quelques kilos. Il a comme contrainte que son temps de vol est limité. 
 
 Piloter un drone est à la portée de tous, à condition de bien s'entraîner et de respecter la législation à propos des appareils volants.
 
 Le drone est composé des éléments suivants:
 
 * Un châssis :élément le plus important du drone. Le châssis peut être composé de 3 à 8 bras.  Ces bras sont, selon le choix du pilote, simples ou doubles,
-* un système de propulsion : il permet au drone de s’envoler. Le système de propulsion est composé d'un moteurs, d’hélices, de batteries. Ces différents éléments influencent le temps de vol et la charge qu'il peut supporter,
-* un contrôleur de vol: il permet de faire la connexion entre le pilote et le drone. 
+* un système de propulsion : il permet au drone de s’envoler. Le système de propulsion est composé d'un moteur, d’hélices, de batteries. Ces différents éléments influencent le temps de vol et la charge qu'il peut supporter,
+* un contrôleur de vol: il permet de faire la connection entre le pilote et le drone. 
 
 
-Il est possible d'acheter toutes ses pièces séparément et d'assembler le drone tout seul.  Toutefois, pour pouvoir utiliser un drone, il est nécessaire de connaître les lois concernant l'aviation civile. En effet, ces lois sont nécessaires pour respecter la vie privée d'autrui.
+Il est possible d'acheter toutes les pièces séparément et d'assembler le drone tout seul.  Toutefois, pour pouvoir utiliser un drone, il est nécessaire de connaître les lois concernant l'aviation civile. En effet, ces lois sont nécessaires pour respecter la vie privée d'autrui.
 
 Le défaut principal du drone est que son bon fonctionnement dépend du vent. En effet, le vent peut rompre le lien entre l'appareil et le pilote.
 
 Tout le monde peut posséder un drône à condition de s'entraîner à le piloter. Il y a également, pour les plus  passionnés, des formations de pilotage.
 
-Les drones sont utiles dans plusieurs profession. En effet, un journaliste de guerre pourra utilisé un drone pour capter des images des zones dangereuses et difficilement accessible à pied.  Dans le milieu du cinéma, le drône remplace les hélicoptères, les grues et le steadycam pour les prises de vue. Cette nouvelle technologie peut aussi servir pour des clips vidéos et musicaux sur youtube. 
+Les drones sont utiles dans plusieurs professions. En effet, un journaliste de guerre pourra utiliser un drone pour capter des images des zones dangereuses et difficilement accessibles.  Dans le milieu du cinéma, le drône remplace les hélicoptères, les grues et le steadycam pour les prises de vue. Cette nouvelle technologie peut aussi servir pour des clips vidéos et musicaux sur youtube. 
 
 Certains offices de tourisme se servent des drones afin de réaliser des cartes du territoire ou des villes à promouvoir. 
 
-Dans le milieu agricole, le drone peut servir : de caméra pour surveiller les champs, repérer des hétérogénéités du sol, examiner la densité végétale, créer des zones sur les parcelles ... 
+Dans le milieu agricole, le drone peut servir de caméra pour surveiller les champs, repérer des hétérogénéités du sol, examiner la densité végétale, créer des zones sur les parcelles ... 
 
 ![drone](https://www.backpackerguide.nz/wp-content/uploads/2018/06/pexels-photo-336232.jpeg "Un drône qui vole")
 
@@ -48,34 +48,34 @@ Pendant et après la première guerre mondiale, des avions sans pilote firent le
 
 Le Royaume-Uni commença le projet de construire des avions cibles. L'ingénieur anglais Archibald Low conçut le projet d'avion cible,l’Aerial Target. 
 
-En 1917, aux États-Unis, le projet Hewitt-Sperry automatic airplane des ingénieurs Elmer Ambrose Sperry, Lawrence Sperry et Peter Cooper Hewitt se développe. 
+En 1917, aux États-Unis, le projet Hewitt-Sperry automatic airplane des ingénieurs Elmer Ambrose Sperry, Lawrence Sperry et Peter Cooper Hewitt se développa. 
 
 La France lança le projet " avions sans pilote" destinés à s'écraser sur des cibles ennemies.Mais ce n'était que des tests. Mark Boucher commença alors ses recherches pour confectionner un avion sans pilote. Il réussit à monter un avion avec pilotage automatique. Il réussit à le faire voler sur 1 km.  
 
-Au même moment, pendant la guerre froide, les Américains développèrent les drones, dans le plus grand secret, afin d'avoir un avantage stratégique sur l'ennemi. Ainsi ils pouvaient savoir exactement où se trouvaient les troupes adverses. 
+Au même moment, pendant la guerre froide, les Américains développèrent les drones dans le plus grand secret afin d'avoir un avantage stratégique sur l'ennemi. Ainsi ils pouvaient savoir exactement où se trouvaient les troupes adverses. 
 
 Les drones militaires furent utilisés pour la première fois lors de la guerre du Vietnam.
 
 
 *Drone militaire* 
 
-> Aux Etats-Unis, les américains ont créé un système capable de capturer des vidéos de 1,8 milliard de pixels. Ce système ce nomme ARGUS-IS (Autonomus Real-Time Ground Ubiquitous Surveillance Imaging System ou système autonome de surveillance omniprésente du sol par imagerie en temps réel).
+> Aux Etats-Unis, les américains ont créé un système capable de capturer des vidéos de 1,8 milliard de pixels. Ce système se nomme ARGUS-IS (Autonomus Real-Time Ground Ubiquitous Surveillance Imaging System ou système autonome de surveillance omniprésente du sol par imagerie en temps réel).
 
-Comme vu lors de la guerre froide, le drone militaire peut fournir des renseignements précieux sur les positions adverses. Il peut aussi être équiper de missile pour neutraliser des cibles. De ce fait, les vies des troupes terrestres ne seront pas misent en danger.
+Comme vu précedemment, lors de la guerre froide, le drone militaire peut fournir des renseignements précieux sur les positions adverses. Il peut aussi être équipé de missiles pour neutraliser des cibles. De ce fait, les vies des troupes terrestres ne seront pas mises en danger.
 
-Aujourd'hui, la Chine veut surpasser les Etats-Unis en matière d'armement. D'ailleurs, l'Empire du milieu commence tout doucement à surpasser les USA. Ils ont créé de nouveaux drones qui attirent les acheteurs. En effet, la Chine commence à conquérir le Moyen-Orient en lui fournissant des armes. Les pays arabes ne sont pas encore totalement sûr et ils ont besoins d'armes.
+Aujourd'hui, la Chine veut surpasser les Etats-Unis en matière d'armement. D'ailleurs, l'Empire du milieu commence tout doucement à surpasser les USA. Ils ont créé de nouveaux drones qui attirent les acheteurs. En effet, la Chine commence à conquérir le Moyen-Orient en lui fournissant des armes. 
 
 *Drone de loisir*
 
-Tout le monde peut posséder un drone. Cette technologie est ouverte à tous. Toutefois, il est nécessaire d'avoir des connaissances de pilotage et connaître la législation à propos des zones de vole. En effet, un drone ne peut pas voler n'importe où. Sinon, les gens pourrait surveiller leurs voisins et les prendre en photo (ou les filmer) sans qu'ils le sachent, ce qui serait une atteinte à leur vie privée.
+Tout le monde peut posséder un drone. Cette technologie est ouverte à tous. Toutefois, il est nécessaire d'avoir des connaissances de pilotage et connaître la législation à propos des zones de vol. En effet, un drone ne peut pas voler n'importe où. Sinon, les gens pourraient surveiller leurs voisins et les prendre en photo (ou les filmer) sans qu'ils le sachent, ce qui serait une atteinte à leur vie privée.
 
-Tous les drones sont obligés d'avoir un matricule. C'est obligatoire. Ainsi ils peuvent être identifiés en cas de délit ou d'accident. De plus, il faut assurer le drone en cas d'accident. Le drone n'est pas à l'abri d'une panne ou d'un dysfonctionnement. En cas de chute,le drone peut causer des dommages environnementaux.
+Tous les drones sont obligés d'avoir un matricule. Ainsi ils peuvent être identifiés en cas de délit ou d'accident. Un drone n'est pas à l'abri d'une panne ou d'un dysfonctionnement. Il doit être assuré notamment parce qu'en cas de chute le drone peut causer des dommages environnementaux.
 
 **Il existe deux catégories de drones : la catégorie A et la catégorie B**.
 
 > La catégorie A regroupe : les aéronefs captifs jusqu'à 150 kg, les aéronefs non captifs (incluant les drones) et les aéronefs à air chaud.
 
-> La catégorie B regroupe tous les aéromodèles ne répondant pas aux caractéristique de la catégorie A. Cette catégorie est soumise à une autorisation de vol délivrée par la DGAC (Direction Générale de l'Aviation civile), attestant des capacités de l'aéromodèle et de son télépilote.
+> La catégorie B regroupe tous les aéromodèles ne répondant pas aux caractéristiques de la catégorie A. Cette catégorie est soumise à une autorisation de vol délivrée par la DGAC (Direction Générale de l'Aviation civile), attestant des capacités de l'aéromodèle et de son télépilote.
 
 **Conclusion**
 
@@ -84,7 +84,7 @@ En conclusion, les drones sont capables de :
 * filmer, 
 * cartographier, 
 * photographier, 
-* faire de frappes aériennes, 
+* faire des frappes aériennes, 
 * espionner des pays ennemis, 
 * neutraliser des cibles ... 
 
