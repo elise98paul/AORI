@@ -8,11 +8,22 @@ Dans le cadre du travail de fin d'année en architecture des ordinateurs, j'ai p
 Le drone est un apareil volants piloter à distance. Cette technologie est accessible à tous les passionnés de cet engin.
 
 *Plan de classement*
+1. Définition
 
 * Qu'est ce qu'un drones ?
 * Quels sont ses caractérisitque ?
 * Quelle est la strustructure du drone ?
 * A quoi peut-il servir ?
+
+2. Historique
+
+* Quel est son histoire ?
+
+3. Drone militaire
+
+4. Drone de loisir
+
+5. Conclusion
 
 **Définition**
 
@@ -35,7 +46,7 @@ Le drone est composé des éléments suivants:
 
 * Un châssis :élément le plus important du drone. Le châssis peut être composé de 3 à 8 bras.  Ces bras sont, selon le choix du pilote, simples ou doubles,
 * un système de propulsion : il permet au drone de s’envoler. Le système de propulsion est composé d'un moteur, d’hélices, de batteries. Ces différents éléments influencent le temps de vol et la charge qu'il peut supporter,
-* un contrôleur de vol: il permet de faire la connection entre le pilote et le drone. 
+* un contrôleur de vol: il permet de faire la connection entre le pilote et le drone. 3.
 
 
 Il est possible d'acheter toutes les pièces séparément et d'assembler le drone tout seul.  Toutefois, pour pouvoir utiliser un drone, il est nécessaire de connaître les lois concernant l'aviation civile. En effet, ces lois sont nécessaires pour respecter la vie privée d'autrui.
@@ -48,9 +59,9 @@ Certains offices de tourisme se servent des drones afin de réaliser des cartes 
 
 Dans le milieu agricole, le drone peut servir de caméra pour surveiller les champs, repérer des hétérogénéités du sol, examiner la densité végétale, créer des zones sur les parcelles ... 
 
-[les caractéristiques des drone ](https://www.studiosport.fr/guides/drones/les-caracteristiques-et-les-fonctions-des-drones.html)
+[Les caractéristiques des drone ](https://www.studiosport.fr/guides/drones/les-caracteristiques-et-les-fonctions-des-drones.html)
 
-[les différents types de drone ](https://www.studiosport.fr/guides/drones/quels-sont-les-differents-types-de-drones.html)
+[Les différents types de drone ](https://www.studiosport.fr/guides/drones/quels-sont-les-differents-types-de-drones.html)
 
 ![drone](https://www.backpackerguide.nz/wp-content/uploads/2018/06/pexels-photo-336232.jpeg "Un drône qui vole")
 
@@ -73,10 +84,10 @@ Les drones militaires furent utilisés pour la première fois lors de la guerre 
 [Histoire du drone](https://www.phenix-vision.fr/l-histoire-du-drone.html)
 
 
-[la première guerre mondiale a aussi inventé les drones](https://www.lemonde.fr/la-foire-du-drone/article/2014/11/11/la-premiere-guerre-mondiale-a-aussi-invente-les-drones_5992940_5037916.html)
+[La première guerre mondiale a aussi inventé les drones](https://www.lemonde.fr/la-foire-du-drone/article/2014/11/11/la-premiere-guerre-mondiale-a-aussi-invente-les-drones_5992940_5037916.html)
 
 
-[projet avion sans pilote](https://www.federation-drone.org/les-drones-dans-le-secteur-civil/histoire-du-drone/)
+[Projet avion sans pilote](https://www.federation-drone.org/les-drones-dans-le-secteur-civil/histoire-du-drone/)
 
 
 **Drone militaire** 
@@ -115,7 +126,7 @@ L'entreprise chinois de drone, DJI, est le premier en matière de vente de drone
 
 [Toute la réglementation](https://www.studiosport.fr/guides/drones/la-reglementation-relative-aux-drones.html)
 
-[les chiffres clés](http://www.leparisien.fr/archives/les-chiffres-cles-05-03-2016-5599351.php)
+[Les chiffres clés](http://www.leparisien.fr/archives/les-chiffres-cles-05-03-2016-5599351.php)
 
 **Conclusion**
 
