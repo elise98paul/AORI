@@ -5,65 +5,21 @@
 
 Dans le cadre du travail de fin d'année en architecture des ordinateurs, j'ai pu choisir une nouvelle technologie. J'ai choisi les drones car cette technologie va prendre de plus en plus d'importance dans l'avenir. Ce dossier documentaire sera composé des éléments suivants : une définition de cette nouvelle technologie, son historique, une présentation de deux types de drones: militaires et de loisir et une conclusion.
 
-*Définition*
+Le drone est un apareil volants piloter à distance. Cette technologie est accessible à tous les passionnés de cet engin.
 
-Un drone est un appareil piloté à distance ne pouvant dépasser les 150 mètres d'altitude afin de ne pas passer dans l'espace aérien. Sa vitesse peut varier entre 20 et 80 km/h.
+*Plan de classement*
 
-Il existe plusieurs types de drones: 
-* drone civil
-* drone professionnel
-* drone militaire
-* drone de cinéma
-* drone de course
+* Qu'est ce qu'un drones ?
+* Quels sont ses caractérisitque ?
+* Quelle est la strustructure du drone ?
+* A quoi peut-il servir ?
 
 
-Le **drone** est capable de transporter des charges de quelques kilos. Il a comme contrainte que son temps de vol est limité. 
-
-Piloter un drone est à la portée de tous, à condition de bien s'entraîner et de respecter la législation à propos des appareils volants.
-
-Le drone est composé des éléments suivants:
-
-* Un châssis :élément le plus important du drone. Le châssis peut être composé de 3 à 8 bras.  Ces bras sont, selon le choix du pilote, simples ou doubles,
-* un système de propulsion : il permet au drone de s’envoler. Le système de propulsion est composé d'un moteur, d’hélices, de batteries. Ces différents éléments influencent le temps de vol et la charge qu'il peut supporter,
-* un contrôleur de vol: il permet de faire la connection entre le pilote et le drone. 
 
 
-Il est possible d'acheter toutes les pièces séparément et d'assembler le drone tout seul.  Toutefois, pour pouvoir utiliser un drone, il est nécessaire de connaître les lois concernant l'aviation civile. En effet, ces lois sont nécessaires pour respecter la vie privée d'autrui.
-
-Le défaut principal du drone est que son bon fonctionnement dépend du vent. En effet, le vent peut rompre le lien entre l'appareil et le pilote.
-
-Tout le monde peut posséder un drône à condition de s'entraîner à le piloter. Il y a également, pour les plus  passionnés, des formations de pilotage.
-
-Les drones sont utiles dans plusieurs professions. En effet, un journaliste de guerre pourra utiliser un drone pour capter des images des zones dangereuses et difficilement accessibles.  Dans le milieu du cinéma, le drône remplace les hélicoptères, les grues et le steadycam pour les prises de vue. Cette nouvelle technologie peut aussi servir pour des clips vidéos et musicaux sur youtube. 
-
-Certains offices de tourisme se servent des drones afin de réaliser des cartes du territoire ou des villes à promouvoir. 
-
-Dans le milieu agricole, le drone peut servir de caméra pour surveiller les champs, repérer des hétérogénéités du sol, examiner la densité végétale, créer des zones sur les parcelles ... 
-
-![drone](https://www.backpackerguide.nz/wp-content/uploads/2018/06/pexels-photo-336232.jpeg "Un drône qui vole")
-
-*Historique*
-
-Pendant et après la première guerre mondiale, des avions sans pilote firent leur apparition. Ils étaient radiocommandés "avec des tentatives de torpilles aériennes" .Le drone n'était à cette époque qu'un projet car il ne fut jamais opérationnel. Alors chaque pays(France, Royaume-Uni et Etats-Unis) travailla sur ce projet  d'aéronef sans pilote.
-
-Le Royaume-Uni commença le projet de construire des avions cibles. L'ingénieur anglais Archibald Low conçut le projet d'avion cible,l’Aerial Target. 
-
-En 1917, aux États-Unis, le projet Hewitt-Sperry automatic airplane des ingénieurs Elmer Ambrose Sperry, Lawrence Sperry et Peter Cooper Hewitt se développa. 
-
-La France lança le projet " avions sans pilote" destinés à s'écraser sur des cibles ennemies.Mais ce n'était que des tests. Mark Boucher commença alors ses recherches pour confectionner un avion sans pilote. Il réussit à monter un avion avec pilotage automatique. Il réussit à le faire voler sur 1 km.  
-
-Au même moment, pendant la guerre froide, les Américains développèrent les drones dans le plus grand secret afin d'avoir un avantage stratégique sur l'ennemi. Ainsi ils pouvaient savoir exactement où se trouvaient les troupes adverses. 
-
-Les drones militaires furent utilisés pour la première fois lors de la guerre du Vietnam.
 
 
-*Drone militaire* 
 
-> Aux Etats-Unis, les américains ont créé un système capable de capturer des vidéos de 1,8 milliard de pixels. Ce système se nomme ARGUS-IS (Autonomus Real-Time Ground Ubiquitous Surveillance Imaging System ou système autonome de surveillance omniprésente du sol par imagerie en temps réel).
-
-Comme vu précedemment, lors de la guerre froide, le drone militaire peut fournir des renseignements précieux sur les positions adverses. Il peut aussi être équipé de missiles pour neutraliser des cibles. De ce fait, les vies des troupes terrestres ne seront pas mises en danger.
-
-Aujourd'hui, la Chine veut surpasser les Etats-Unis en matière d'armement. D'ailleurs, l'Empire du milieu commence tout doucement à surpasser les USA. Ils ont créé de nouveaux drones qui attirent les acheteurs. En effet, la Chine commence à conquérir le Moyen-Orient en lui fournissant des armes. 
 
 *Drone de loisir*
 
@@ -76,6 +32,10 @@ Tous les drones sont obligés d'avoir un matricule. Ainsi ils peuvent être iden
 > La catégorie A regroupe : les aéronefs captifs jusqu'à 150 kg, les aéronefs non captifs (incluant les drones) et les aéronefs à air chaud.
 
 > La catégorie B regroupe tous les aéromodèles ne répondant pas aux caractéristiques de la catégorie A. Cette catégorie est soumise à une autorisation de vol délivrée par la DGAC (Direction Générale de l'Aviation civile), attestant des capacités de l'aéromodèle et de son télépilote.
+
+Le prix d'un drone varie en fonction des tâches qu'il peut accomplir (surveillance, photographie, vidéos. Les drones les moins chers sont à moins de 100 Euro et les plus coûteux dépassent le millier d'euros.  \\
+
+L'entreprise chinois de drone, DJI, est le premier en matière de vente de drone de loisir. Cette entreprise fut fondé en 2006 par le chinois Wang Tao. DJI a des firmes dans divers pays du monde. En 2015, l'entreprise comptait 3 000 employés.
 
 **Conclusion**
 
