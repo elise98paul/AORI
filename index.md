@@ -12,7 +12,7 @@ Dans le cadre du travail de fin d'année en architecture des ordinateurs, j'ai p
 
 * Qu'est ce qu'un drone ?
 * Quels sont ses caractérisitque ?
-* Quelle est la strustructure du drone ?
+* Quelle est la structure du drone ?
 * A quoi peut-il servir ?
 
 2. Historique
