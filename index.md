@@ -10,7 +10,7 @@ Dans le cadre du travail de fin d'année en architecture des ordinateurs, j'ai p
 
 1. Définition
 
-* Qu'est ce qu'un drones ?
+* Qu'est ce qu'un drone ?
 * Quels sont ses caractérisitque ?
 * Quelle est la strustructure du drone ?
 * A quoi peut-il servir ?
