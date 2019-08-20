@@ -116,7 +116,7 @@ Tous les drones sont obligés d'avoir un matricule. Ainsi ils peuvent être iden
 
 > La catégorie B regroupe tous les aéromodèles ne répondant pas aux caractéristiques de la catégorie A. Cette catégorie est soumise à une autorisation de vol délivrée par la DGAC (Direction Générale de l'Aviation civile), attestant des capacités de l'aéromodèle et de son télépilote.
 
-Le prix d'un drone varie en fonction des tâches qu'il peut accomplir (surveillance, photographie, vidéos. Les drones les moins chers sont à moins de 100 Euro et les plus coûteux dépassent le millier d'euros. 
+Le prix d'un drone varie en fonction des tâches qu'il peut accomplir (surveillance, photographie, vidéos..). Les drones les moins chers sont à moins de 100 Euro et les plus coûteux dépassent le millier d'euros. 
 
 L'entreprise chinois de drone, DJI, est le premier en matière de vente de drone de loisir. Cette entreprise fut fondé en 2006 par le chinois Wang Tao. DJI a des firmes dans divers pays du monde. En 2015, l'entreprise comptait 3 000 employés.
 
