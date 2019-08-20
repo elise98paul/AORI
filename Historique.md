@@ -11,3 +11,12 @@ La France lança le projet " avions sans pilote" destinés à s'écraser sur des
 Au même moment, pendant la guerre froide, les Américains développèrent les drones dans le plus grand secret afin d'avoir un avantage stratégique sur l'ennemi. Ainsi ils pouvaient savoir exactement où se trouvaient les troupes adverses. 
 
 Les drones militaires furent utilisés pour la première fois lors de la guerre du Vietnam.
+
+[Histoire du drone](https://www.phenix-vision.fr/l-histoire-du-drone.html)
+
+
+[la première guerre mondiale a aussi inventé les drones](https://www.lemonde.fr/la-foire-du-drone/article/2014/11/11/la-premiere-guerre-mondiale-a-aussi-invente-les-drones_5992940_5037916.html)
+
+
+
+[projet avion sans pilote](https://www.federation-drone.org/les-drones-dans-le-secteur-civil/histoire-du-drone/)
