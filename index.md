@@ -1,6 +1,6 @@
 **Dossier documentaire: les drones**
 
-[Qu'est-ce qu'un drone?](AORI\historique.md)
+[Qu'est-ce qu'un drone?](docs\historique.md)
 
 
 *Introduction*
